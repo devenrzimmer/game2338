@@ -1,10 +1,9 @@
 # Game Review for Valorant
-## Details
+## Published by Riot Games
 
-### Game Title
+### VALORANT
 
-Valorant
-Published by Riot Games
+
 https://playvalorant.com/
 ### Rating
 
